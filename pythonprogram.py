@@ -19,3 +19,6 @@ print(mod)
 div=a/b
 print(div)
 
+pow=a^2
+print(pow)
+
