@@ -22,3 +22,5 @@ print(div)
 pow=a^2
 print(pow)
 
+print("end of arithmetic operations")
+
