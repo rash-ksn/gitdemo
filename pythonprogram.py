@@ -9,3 +9,5 @@ print(sub)
 mul=a*b
 print(mul)
 
+mod=a%b
+print(mod)
